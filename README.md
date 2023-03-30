@@ -27,8 +27,11 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+```python
 
+```
 ## OUTPUT:
+##
 
 ## RESULT:
 The program is executed succesfully
